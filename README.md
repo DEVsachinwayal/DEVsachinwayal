@@ -7,7 +7,7 @@ A **curious learner** passionate about coding and building solutions 🚀.
 I'm experienced in **Web Development, Full-Stack Technologies**, and always keen to explore new tech!
 
 ---
-
+<!-- 
 ### 🚀 **Skills & Technologies**:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)

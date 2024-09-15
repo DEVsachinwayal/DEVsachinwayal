@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hi, I'm Rushikesh Wayal!  
+# 👋 Hi, I'm Sachin Wayal!  
 A **curious learner** passionate about coding and building solutions 🚀.  
 I'm experienced in **Web Development, Full-Stack Technologies**, and always keen to explore new tech!
 
@@ -39,8 +39,8 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&token=YOUR_PAT_HERE" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rushikeshwayal&theme=nightowl&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVsachinwayal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&token=YOUR_PAT_HERE" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DEVsachinwayal&theme=nightowl&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 
 
@@ -49,7 +49,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 ### 📊 **Top Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsachinwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
 </p>
 
 
@@ -57,7 +57,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DEVsachinwayl&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ### 🌍 **Profile Views**:
 <a href="https://visitcount.itsvg.in/api?id=rushikeshwayal" target="_blank">
-  <img src="https://visitcount.itsvg.in/api?id=rushikeshwayal&label=Profile%20Views&icon=5&pretty=true&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=DEVsachinwayal&label=Profile%20Views&icon=5&pretty=true&style=for-the-badge" alt="Profile Views" />
 </a>
 
 
